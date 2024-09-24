@@ -1,0 +1,6 @@
+{
+  "name": "lintmate",
+  "workspaces": [
+    "projects/*"
+  ]
+}
